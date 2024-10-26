@@ -1,0 +1,19 @@
+/* AcknowledgmentComponent.css */
+.ack-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .ack-list li {
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #e0f7fa;
+    border-radius: 5px;
+    font-size: 1.1rem;
+  }
+  
+  .ack-list li:nth-child(odd) {
+    background-color: #b2ebf2;
+  }
+  
